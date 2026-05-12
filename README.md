@@ -15,4 +15,7 @@ the Simplified Chinese translation For ExifTool, which could also use at ExifGla
           - 📁 Lang
             - 📄 zh_cn.pm
   - 📄 exiftool.exe
-  
+
+## Descriptions
+
+Please add `-lang zh-cn` on ExifTool Arguments.
